@@ -1,19 +1,23 @@
-# Marius Perrin — personal portfolio
+# Marius Perrin — Personal Portfolio
 
-A responsive, one-page portfolio built with plain HTML, CSS and JavaScript. No
-installation or build tools are needed.
+This is my personal portfolio, bringing together my academic background, professional experiences and projects.
 
-## Preview the site
+My background combines humanities, business and financial markets. After three years in literary preparatory classes in Paris, I joined NEOMA Business School and studied internationally in Peru and Italy. I am particularly interested in financial markets, structured products, client-facing roles and business strategy.
 
-Open `index.html` in a web browser. You can also open the project folder in
-Visual Studio Code and use its Live Preview extension if you have it installed.
+## What you'll find
 
-## Personalise before sharing
+- My academic background
+- My professional experiences
+- My Structured Products CRM project
+- My skills and languages
+- My CV and contact information
 
-The contact details, LinkedIn profile, GitHub project/profile links, portrait
-and CV are connected to the supplied files and URLs. Keep `marius-perrin
-photo.jpeg` and `CV Marius Perrin in English.pdf` in the same folder as
-`index.html` so their links continue to work.
+## About this project
 
-The styles, page structure and subtle animations can be kept as they are while
-you update these details.
+I built this portfolio using HTML, CSS and JavaScript, with GitHub Copilot as an AI-assisted development tool. The objective was not to become a web developer, but to learn how to turn an idea into a functional digital project and understand the tools behind it.
+
+The portfolio is fully responsive and designed for both desktop and mobile.
+
+## Other project
+
+**Structured Products CRM** — A lightweight CRM prototype I created to explore how a structured-products sales team could organize prospects, client types, product interests and follow-ups.
